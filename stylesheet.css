@@ -1,0 +1,92 @@
+#welcome {
+	color: blue;
+	text-align: center;
+}
+
+#fruitlist {
+	position: inline;
+
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.blackberry {
+	text-align: left;
+
+}
+
+.alertbutton {
+	text-align: right;
+}
+
+span#black {
+	font-weight: bold;
+} 
+
+span#brown {
+	font-weight: bold;
+	color: #A0522D; 
+} 
+
+span#green {
+	font-weight: bold;
+	color: green;
+} 
+
+span#orange {
+	font-weight: bold;
+	color: orange;
+} 
+
+span#pink {
+	font-weight: bold;
+	color: #DB7093;
+} 
+
+ span#purple {
+	font-weight: bold;
+	color: purple;
+} 
+
+span#red {
+	font-weight: bold;
+	color: red;
+} 
+
+span#yellow {
+	font-weight: bold;
+	color: yellow;
+} 
+
+span#c {
+	font-weight: bold;
+	color: red;
+} 
+
+span#o {
+	font-weight: bold;
+	color: yellow;
+} 
+
+span#l {
+	font-weight: bold;
+	color: orange;
+} 
+
+span#o2 {
+	font-weight: bold;
+	color: green;
+} 
+
+span#r {
+	font-weight: bold;
+	color: blue;
+} 
+
+span#exclam {
+	font-weight: bold;
+	color: purple;
+} 
